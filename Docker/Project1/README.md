@@ -1,2 +1,1 @@
-
 Docker Hub: jimmysu/qualityinspection
